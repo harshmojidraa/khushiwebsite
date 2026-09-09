@@ -1,0 +1,6 @@
+{
+  "name": "Google Merchandise Store",
+  "description": "Explore official Google merchandise, apparel, drinkware, accessories, stationery, lifestyle, and exclusive collections with clean design and fast checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
